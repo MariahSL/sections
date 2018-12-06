@@ -59,5 +59,8 @@ section {
   display: inline-block;
   padding: .5em 1em;
   margin-left: auto;
+}
 
+a:hover {
+  background-color: #666;
 }
