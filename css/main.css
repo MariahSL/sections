@@ -18,13 +18,13 @@ img {
 
 h2 {
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   display: block;
   margin: 0;
 }
 
 p {
-  text-align: center;
+  text-align: left;
   display: block;
   padding: 1.5em 0;
   margin: 0;
