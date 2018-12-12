@@ -28,7 +28,6 @@ p {
   text-align: left;
   display: block;
   margin: 0 0 1.5rem;
-  max-width: 24.1em;
   line-height: 1.55;
 }
 
@@ -36,12 +35,13 @@ div {
   vertical-align: middle;
   display: inline-block;
   padding: 1em;
+  max-width: 25em;
 }
 
 .textdiv {
   text-align: left;
   display: inline-block;
-  padding: 1em 1.2em 2em;
+  padding: 1em;
 }
 
 body {
@@ -50,7 +50,7 @@ body {
 
 section {
   text-align: center;
-  padding: 2em 0 0;
+  padding: 2em 0;
 }
 
 .btn {
